@@ -9,7 +9,7 @@
 ## 🔗 लाइव इंटरैक्टिव
 
 इसे यहाँ आज़माएं:  
-👉 https://content-interactives.github.io/nuclear_fusion/
+👉 [https://content-interactives.github.io/nuclear_fusion_hindi/](https://content-interactives.github.io/nuclear_fusion_hindi/)
 
 ---
 
